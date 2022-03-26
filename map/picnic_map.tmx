@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.5" tiledversion="1.7.2" orientation="orthogonal" renderorder="right-down" width="75" height="45" tilewidth="64" tileheight="64" infinite="0" nextlayerid="19" nextobjectid="139">
+ <tileset firstgid="1" source="Furry Spritesheet Tiles.tsx"/>
+ <imagelayer id="2" name="Grass">
+  <image source="../img/grass.png" width="4800" height="2880"/>
+ </imagelayer>
+ <layer id="8" name="Floor" width="75" height="45">
+  <data encoding="base64" compression="zlib">
+   eJztl9kOgjAQRXFfwPXZBRdEFv+J//8K57GphZmQkiK9JzlvUseTVMcgAAAAAAAAAAAAAPh/FuRKc+p0ov4yJ0eaE6cT9Zcht+LuTEF+Gnxr59lqdSefmtcW59iE+2w5mTSYaufNyKXmuMVcN/KkeWlxjk1st7IFWslBKzloJQet5PSxFfe7lZFlg6+O5orJh+a5o/caKqa9y/XutSePjBsHc5nupuv7uSPXjJHyetrfq9Qg3dHK5lxDaEX/d6rEYIlWaKWAVnLQSs6WPDCGyusLapIbzDxo1Vd8b8XtcuoeFwe/+7xPOz333RjVP+odaCUHreSglRy0ksPtcmH9owAA4A1fedU2zA==
+  </data>
+ </layer>
+ <layer id="9" name="Wall" width="75" height="45">
+  <data encoding="base64" compression="zlib">
+   eJzt2FEKgkAQgOG5QxjrKcKnQqiwE/TQATxaR/FoTWQkwtKuNayu/wcDsawyTWKzIwIAAAAAAJZqK3KPWc+F0ygj9uvettBwo7r41nOhz4EUfejnLuQa19ekHNXEt54T/W6dC6zTm9a1jVlfi13qBAD8xT51AgaseqSTxU0Tsu6Rmoz+J616pJxqNLT2HglYkyZ1AgFicqzNsviYYz+x0fd2pXEN3H8xzOV57+FZc27nzrO8fsODxs3TF9Qy/VnyzcJiZ2RLFVo33yzs24ys+jnDZfLNwqbMyABMc+SMFG2OPRMAAADCPACygR7K
+  </data>
+ </layer>
+ <layer id="10" name="Decorations 1" width="75" height="45">
+  <data encoding="base64" compression="zlib">
+   eJzt190KgjAch+FdREfdRF9KGVjYSR70ddAFdNZtdSleWhMkxSZs5lzO94E/g+Ho59xYEwIAAAAAAMB/oRCZqn/ac46+HWTNFf0TWUnDmKBhrlYdZRqisGjzuQxcBvlz+Zq6iHLNqdbekMVCvIo2c5vEHzdZJ1kb10EcyudgZzgmshHEAxF78yMu24fO85HiOZv7MtHMNRQ29uTSszkCMD5L1wE0JAb/HXy725jQffezrLXFHMdaltTib7Wxr5zd94a1tegrjCeq33tmME7Ov7gq+rfyGwXFvb4ubegfiqfrAAB+Uj8fOC/QNZNzdGzYb+2N+Y6ki/UFAN/e1YMVpw==
+  </data>
+ </layer>
+ <layer id="12" name="Decorations 2" width="75" height="45">
+  <data encoding="base64" compression="zlib">
+   eJzt2N0KgjAUwPHzRPZ9ESYRRSS7ix6gu4Reqkfx0dKYMMJVgnOb/X8gisI8Hrd5nAgAAAAAAMD4ZZbzqch1yDiGdqy2k+XavGNbychz9clK75XXKML33qdyL1G40zzP+Y/HQszu1XbzHURPZo7b30Tax6eO2y8seTno83lAeavmqYfe/2TiLpRWycD3c23t4N3balcAiEWmv0Uh23WI8Z//BbvUnrZ6qS9mLKHVE1uRsjm+WPKgAqoXY6CMMaqM/H5jy38qr3+dVvsI5iwA41SvOxfGHFSvXWV8L9CjpcRRm/ugx1vpO45Y1f1qLOvtLiyE/gUAbZ48YRtl
+  </data>
+ </layer>
+ <layer id="16" name="Decorations 3" width="75" height="45">
+  <data encoding="base64" compression="zlib">
+   eJzt2EEKgzAQheE5UYtupNJSxGVw5wE8mkfp0XTholQHURsnif+3CQTB5xhNGBEAAAAAAID0VSK9dQYrz43X1yLd0vxYw8/hMLiEbBqdaQogXb6/rTLS/70zzn2zvPlBTtn7fYl1jWkeHp4ntRoBQIiqk/e/WN2tAyhegb2/91ffqTXMAZFCmR/P632unLFCW08AruW3z0NPFf/STCNrSkdt9qN266gRAMwN7JYQlw==
+  </data>
+ </layer>
+ <layer id="17" name="Decorations 4" width="75" height="45">
+  <data encoding="base64" compression="zlib">
+   eJzt1sENQEAQBdApQiPcCAXoQilKUYpSlGILsAcJVngv2cvM5Wczhx8BAAAA8H1NxHI0HyLmZ5O8X5+Zpz/cnswBAHxT6hRT6QxXajM9E+DPxoi1dAauUZcOkOHGOKNLr0odtMvs3RMAAADcbwcvLgh9
+  </data>
+ </layer>
+ <layer id="18" name="Decorations 5" width="75" height="45">
+  <data encoding="base64" compression="zlib">
+   eJzt1jERACEQBMH1gJDPkYAK/Kv4lJiCuoBuBRNOAgAAAAAAAOxoyaxuAIBbvuoAOKj7NgBgMaoDAOAxP39SAYc=
+  </data>
+ </layer>
+ <objectgroup id="5" name="Obstacles">
+  <object id="30" name="wall" x="0" y="0" width="4800" height="16"/>
+  <object id="32" name="player" x="2512" y="1488" width="32" height="32"/>
+  <object id="34" name="furry" x="448" y="784" width="32" height="32"/>
+  <object id="42" name="wall" x="0" y="2864" width="4800" height="16"/>
+  <object id="43" name="wall" x="0" y="0" width="16" height="2880"/>
+  <object id="44" name="wall" x="4784" y="0" width="16" height="2880"/>
+  <object id="48" name="furry" x="4494" y="832" width="32" height="32"/>
+  <object id="49" name="furry" x="3680" y="368" width="32" height="32"/>
+  <object id="55" name="furry" x="2320" y="128" width="32" height="32"/>
+  <object id="56" name="furry" x="2416" y="288" width="32" height="32"/>
+  <object id="57" name="furry_boss" x="2320" y="224" width="32" height="32"/>
+  <object id="61" name="furry" x="4400" y="688" width="32" height="32"/>
+  <object id="62" name="furry" x="4544" y="1792" width="32" height="32"/>
+  <object id="64" name="furry" x="4384" y="1680" width="32" height="32"/>
+  <object id="65" name="furry" x="4352" y="1888" width="32" height="32"/>
+  <object id="66" name="furry" x="224" y="1856" width="32" height="32"/>
+  <object id="70" name="furry" x="272" y="640" width="32" height="32"/>
+  <object id="71" name="furry" x="320" y="1696" width="32" height="32"/>
+  <object id="72" name="furry" x="256" y="832" width="32" height="32"/>
+  <object id="73" name="furry" x="416" y="1840" width="32" height="32"/>
+  <object id="74" name="furry" x="1088" y="256" width="32" height="32"/>
+  <object id="75" name="furry" x="1248" y="208" width="32" height="32"/>
+  <object id="76" name="furry" x="1184" y="400" width="32" height="32"/>
+  <object id="77" name="furry" x="2224" y="320" width="32" height="32"/>
+  <object id="78" name="furry" x="3600" y="224" width="32" height="32"/>
+  <object id="79" name="furry" x="3488" y="384" width="32" height="32"/>
+  <object id="80" name="furry" x="4272" y="848" width="32" height="32"/>
+  <object id="82" name="furry" x="3840" y="2592" width="32" height="32"/>
+  <object id="83" name="furry" x="976" y="2480" width="32" height="32"/>
+  <object id="85" name="furry" x="2368" y="2672" width="32" height="32"/>
+  <object id="87" name="furry_boss" x="2368" y="2560" width="32" height="32"/>
+  <object id="88" name="furry" x="1168" y="2496" width="32" height="32"/>
+  <object id="89" name="furry" x="1104" y="2320" width="32" height="32"/>
+  <object id="90" name="furry" x="2464" y="2496" width="32" height="32"/>
+  <object id="91" name="furry" x="2272" y="2512" width="32" height="32"/>
+  <object id="92" name="furry" x="3664" y="2656" width="32" height="32"/>
+  <object id="93" name="furry" x="3696" y="2496" width="32" height="32"/>
+  <object id="95" name="wall" x="3280" y="1344" width="96" height="64"/>
+  <object id="96" name="wall" x="3344" y="1296" width="32" height="112"/>
+  <object id="97" name="wall" x="3584" y="1856" width="112" height="64"/>
+  <object id="98" name="wall" x="3792" y="1808" width="32" height="32"/>
+  <object id="99" name="wall" x="3088" y="2320" width="32" height="48"/>
+  <object id="100" name="wall" x="3072" y="2368" width="64" height="64"/>
+  <object id="101" name="wall" x="2896" y="1952" width="96" height="32"/>
+  <object id="102" name="wall" x="2896" y="2048" width="96" height="32"/>
+  <object id="103" name="wall" x="2864" y="1984" width="160" height="64"/>
+  <object id="104" name="wall" x="3280" y="1952" width="96" height="32"/>
+  <object id="105" name="wall" x="3280" y="2048" width="96" height="32"/>
+  <object id="106" name="wall" x="3248" y="1984" width="160" height="64"/>
+  <object id="107" name="wall" x="2944" y="912" width="32" height="96"/>
+  <object id="108" name="wall" x="2848" y="912" width="32" height="96"/>
+  <object id="109" name="wall" x="2880" y="880" width="64" height="160"/>
+  <object id="119" name="wall" x="1680" y="928" width="96" height="32"/>
+  <object id="120" name="wall" x="1680" y="1024" width="96" height="32"/>
+  <object id="121" name="wall" x="1648" y="960" width="160" height="64"/>
+  <object id="122" name="wall" x="2048" y="1856" width="128" height="64"/>
+  <object id="123" name="wall" x="1360" y="1856" width="176" height="64"/>
+  <object id="124" name="wall" x="1424" y="1920" width="96" height="48"/>
+  <object id="125" name="wall" x="1344" y="1920" width="64" height="64"/>
+  <object id="126" name="wall" x="1472" y="1792" width="64" height="64"/>
+  <object id="127" name="wall" x="1472" y="1216" width="128" height="64"/>
+  <object id="128" name="wall" x="1616" y="1232" width="32" height="32"/>
+  <object id="129" name="wall" x="832" y="1280" width="64" height="64"/>
+  <object id="130" name="wall" x="912" y="1296" width="32" height="32"/>
+  <object id="131" name="wall" x="2112" y="1088" width="64" height="64"/>
+  <object id="132" name="wall" x="2048" y="976" width="64" height="32"/>
+  <object id="133" name="wall" x="2560" y="912" width="32" height="96"/>
+  <object id="134" name="wall" x="2464" y="912" width="32" height="96"/>
+  <object id="135" name="wall" x="2496" y="880" width="64" height="160"/>
+  <object id="136" name="wall" x="1984" y="1424" width="32" height="96"/>
+  <object id="137" name="wall" x="1888" y="1424" width="32" height="96"/>
+  <object id="138" name="wall" x="1920" y="1392" width="64" height="160"/>
+ </objectgroup>
+ <imagelayer id="15" name="Bushes">
+  <image source="../img/bushes.png" width="4800" height="2880"/>
+ </imagelayer>
+</map>
