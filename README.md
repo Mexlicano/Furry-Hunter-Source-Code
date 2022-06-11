@@ -13,8 +13,8 @@ The following Python modules I used:
 - win32api (For getting your monitor's refresh rate)
 
 The following softwares I used:
-- Visual Studio Code (Formerly)
-- Pycharm (For scripting the game, just like VS Code. (The fake warnings are my only complaints) )
+- Visual Studio Code (For scripting the game, but the fake warnings were my only complaints)
+- Pycharm (Just like VS Code.)
 - FireAlpaca (For drawing the images like furries, marine (not really), food, bushes, etc.)
 - Tiled (For creating a map with few layers.)
 - Paint.net (For creating the spritesheet tiles)
